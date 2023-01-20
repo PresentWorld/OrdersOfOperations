@@ -1,2 +1,3 @@
 # OrdersOfOperations
-BEDMAS for programs.
+What goes first?
+Computing orders of operations with C++

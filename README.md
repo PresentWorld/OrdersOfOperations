@@ -1,6 +1,4 @@
-# OrdersOfOperations
-What goes first?
-
+# Orders of Operations
 Computing orders of operations with C++
 
 # Table of Contents

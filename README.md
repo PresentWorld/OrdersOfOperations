@@ -1,3 +1,3 @@
 # OrdersOfOperations
-What goes first?
+What goes first?\n
 Computing orders of operations with C++
